@@ -1,3 +1,4 @@
+package Arrays;
 // Kadane's algorithm :
 // For logic refer your notebook;
 

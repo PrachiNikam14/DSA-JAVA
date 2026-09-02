@@ -1,3 +1,4 @@
+package Arrays;
 // Yeh maine khudse likha hai bhale yeh brute force ho phir bhi yeh maine likha hai khudse!!
 // Code: Brute Force
 
