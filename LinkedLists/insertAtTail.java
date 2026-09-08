@@ -1,4 +1,4 @@
-package LinkedLists;
+
 
 public class insertAtTail {
     
